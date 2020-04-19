@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://arthorn.win</id>
     <title>arthorn</title>
-    <updated>2020-04-19T18:44:34.620Z</updated>
+    <updated>2020-04-19T18:53:19.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://arthorn.win"/>
     <link rel="self" href="https://arthorn.win/atom.xml"/>
@@ -16,9 +16,9 @@
         <link href="https://arthorn.win/post/kKgNoVuoU/">
         </link>
         <updated>2020-04-19T18:29:58.000Z</updated>
-        <content type="html"><![CDATA[<!-- more -->
+        <content type="html"><![CDATA[<blockquote>
 <p>🌟代表我常用的插件 ❤️代表跺脚推荐；基础插件对建立 Design System 非常有帮助，Juuust Handoff 是对接开发的设计交付插件非常推荐。</p>
-<!-- more -->
+</blockquote>
 <h3 id="基础插件">😋基础插件</h3>
 <ol>
 <li><a href="https://www.figma.com/community/plugin/830051293378016221/Juuust-Handoff">Juuust Handoff</a> 设计交付插件，自动标注可离线交付给开发❤️</li>
