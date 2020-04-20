@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://arthorn.win</id>
     <title>arthorn</title>
-    <updated>2020-04-20T14:34:50.206Z</updated>
+    <updated>2020-04-20T14:38:45.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://arthorn.win"/>
     <link rel="self" href="https://arthorn.win/atom.xml"/>
@@ -143,8 +143,9 @@
         </link>
         <updated>2020-01-20T14:08:36.000Z</updated>
         <content type="html"><![CDATA[<h1 id="2019年项目展示">2019年项目展示</h1>
-<blockquote></blockquote>
+<blockquote>
 <p>以下是我 19 年主导设计的公司项目；与一部分外包项目，其中包括公司研发的BlockTrending &amp; BlockVoices ，与公司合作的矿厂 Web 端（RabbitPool）、微信小程序（iblockmining）、雪球大学课程系列海报等。</p>
+</blockquote>
 <h3 id="海报合集">海报合集</h3>
 <p>包括 BT 发布会海报、雪球大学课程系列海报、新经济 100 人商业 KV、分享海报、信息图等。</p>
 <p><a href="https://lanhuapp.com/url/GqP2M">蓝湖预览</a>→</p>
