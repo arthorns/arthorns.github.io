@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://arthorn.win</id>
     <title>arthorn</title>
-    <updated>2020-05-24T11:42:01.763Z</updated>
+    <updated>2020-05-24T11:46:22.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://arthorn.win"/>
     <link rel="self" href="https://arthorn.win/atom.xml"/>
@@ -16,8 +16,10 @@
         <link href="https://arthorn.win/post/ZD6dzhVaJ/">
         </link>
         <updated>2020-05-24T10:16:00.000Z</updated>
-        <content type="html"><![CDATA[<p><strong>前言</strong></p>
+        <content type="html"><![CDATA[<blockquote>
 <p>本文章小白适用大佬请无视，但是小白也不能把它当成保姆指南，有些基础问题还是需要自己 Google 查询，比如：了解一个网站的基础构成。</p>
+</blockquote>
+<p><strong>前言</strong></p>
 <p>相信有许多互联网从业者希望有一个自己的个人网站（Blog）写写文章总结输出，但是苦于不会前端代码，学习成本太高等等原因一直拖着或者另寻出路，比如知乎专栏、微信公众号、简书、豆瓣等平台。</p>
 <p>在这些平台上去分发自己的文章总结其实也挺好的，但是有一小搓“爱折腾的人”就是想拥有一个自己的个站，拥有掌控权。</p>
 <p>建站有许多非常成熟的平台，比如 Wordpress、Publii、Brizy、Ghost 等等资源非常丰富，但是有一定的学习成本，并且需要购买虚拟主机，域名备案、申请 https 证书等等繁复的前期准备。</p>
